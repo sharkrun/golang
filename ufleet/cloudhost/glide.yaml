@@ -1,0 +1,11 @@
+package: ufleet/cloudhost
+import:
+- package: github.com/ant0ine/go-json-rest
+  subpackages:
+  - rest
+- package: github.com/coreos/etcd
+  subpackages:
+  - client
+- package: github.com/emicklei/go-restful
+  subpackages:
+  - log

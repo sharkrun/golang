@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;test&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../cluster" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../ufleet" />
+      <root url="file://$PROJECT_DIR$/../study" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../cluster" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../ufleet" />
+      <root url="file://$PROJECT_DIR$/../study" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

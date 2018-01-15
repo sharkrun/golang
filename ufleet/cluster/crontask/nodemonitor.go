@@ -1,0 +1,6 @@
+package crontask
+
+
+func TaskCreate() {
+
+}
